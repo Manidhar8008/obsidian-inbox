@@ -1,2 +1,2 @@
 # obsidian-inbox
-the software that connects reddit &amp; obsidian
+The software that connects Reddit &amp; Obsidian
