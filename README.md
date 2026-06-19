@@ -1,2 +1,3 @@
 # obsidian-inbox
-The software that connects Reddit &amp; Obsidian
+source code *
+product of Mw.ai
